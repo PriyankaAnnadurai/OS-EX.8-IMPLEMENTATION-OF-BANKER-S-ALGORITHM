@@ -87,6 +87,8 @@ int main() {
 ```
 ## OUTPUT:
 
+![image](https://github.com/PSriVarshan/OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM/assets/114944059/40aa2444-f096-4b62-9732-c929b47cb5e2)
+
 ## RESULT:
 Thus, implement Bankers Algorithm to avoid Deadlock is implemented successfully using c
 program.
